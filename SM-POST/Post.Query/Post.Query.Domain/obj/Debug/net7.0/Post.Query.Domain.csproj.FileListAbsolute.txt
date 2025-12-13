@@ -1,0 +1,17 @@
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Query.Domain.deps.json
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Query.Domain.dll
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Query.Domain.pdb
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/bin/Debug/net7.0/CQRS.Core.dll
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Common.dll
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/bin/Debug/net7.0/CQRS.Core.pdb
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Common.pdb
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.csproj.AssemblyReference.cache
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.AssemblyInfoInputs.cache
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.AssemblyInfo.cs
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.csproj.CoreCompileInputs.cache
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.csproj.CopyComplete
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.dll
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/refint/Post.Query.Domain.dll
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.pdb
+/home/jasim/RiderProjects/event-sourcing-cqrs-project/SM-POST/Post.Query/Post.Query.Domain/obj/Debug/net7.0/ref/Post.Query.Domain.dll
