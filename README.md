@@ -118,3 +118,67 @@ Optimized for **fast reads** and **simple queries**.
 **Technology:** PostgreSQL
 
 ---
+
+## 🔄 Event Replay
+
+The system supports **rebuilding read models from scratch** by:
+
+1. Reading events from MongoDB
+2. Re-publishing or re-processing them
+3. Reconstructing PostgreSQL projections
+
+This enables:
+
+* Schema evolution
+* Bug fixes in projections
+* Disaster recovery
+
+--- 
+
+## 🚫 What This Project Is Not
+
+* Not a production-ready social network
+* Not a monolithic web application
+* Not dependent on heavy frameworks
+* Not optimized for UI or frontend integration
+
+It is a **learning-focused backend architecture showcase**.
+
+---
+
+## 🛠️ Running the Project (High-Level)
+
+### Prerequisites
+
+* .NET SDK
+* Docker & Docker Compose
+* Apache Kafka
+* MongoDB
+* PostgreSQL
+* MS SQL Server
+
+### Typical Flow
+
+1. Start infrastructure services (Kafka, databases)
+2. Run command-side services
+3. Run read-side projection service
+4. Send commands via API or message interface
+5. Query projections from PostgreSQL
+
+> Exact startup scripts and ports depend on your local configuration.
+
+---
+
+## 📄 License
+
+MIT License (or specify your preferred license)
+
+---
+
+## 🙌 Acknowledgments
+
+Inspired by:
+
+* Domain-Driven Design (Eric Evans)
+* CQRS & Event Sourcing patterns
+* Real-world distributed systems design
