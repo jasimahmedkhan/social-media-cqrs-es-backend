@@ -10,4 +10,27 @@
         <PackageReference Include="MongoDB.Driver" Version="3.5.2" />
     </ItemGroup>
 
+    <ItemGroup>
+        <Compile Remove="Generated\**\*" />
+        <None Remove="Generated\**\*" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="obj\Debug\net9.0\**" />
+      <Compile Remove="obj\Debug\**" />
+      <Compile Remove="obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="obj\Debug\net9.0\**" />
+      <EmbeddedResource Remove="obj\Debug\**" />
+      <EmbeddedResource Remove="obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="obj\Debug\net9.0\**" />
+      <None Remove="obj\Debug\**" />
+      <None Remove="obj\**" />
+    </ItemGroup>
+
 </Project>
