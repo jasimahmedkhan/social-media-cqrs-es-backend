@@ -1,4 +1,4 @@
-# social-media-cqrs-es-backend
+# social-media-cqrs-es-backend (In-Progress)
 
 A **.NET microservices backend** that models core social media interactions—**posts, comments, and likes**—using **CQRS (Command Query Responsibility Segregation)** and **Event Sourcing**.
 
