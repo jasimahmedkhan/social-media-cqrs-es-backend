@@ -1,1 +1,7 @@
 /.idea/
+*.dll
+*.pdb
+bin/
+obj/
+CQRS-ES/**/bin/
+CQRS-ES/**/obj/
